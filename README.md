@@ -24,7 +24,7 @@ In this project. I was interested in using Stackoverflow Developer Survey Data t
 **UnitedStates_survey_results_public.csv**: copy of the original dataset only for United States. </br>
 
 ## Results <a name="results"></a>
-The main findings can be found at the post [here](https://www.google.com)
+The main findings can be found at the post [here](https://medium.com/@engmoh24/the-most-common-programming-languages-in-united-state-dd78a10f1cf5?sk=fec57d45c6959d1e7ce0d4c7e3067f07)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
